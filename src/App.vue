@@ -5,8 +5,6 @@
 </template>
 
 <style>
-@import url('assets/right.css');
-@import url('assets/style_admin.css');
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
